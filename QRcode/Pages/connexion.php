@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="/QRcode/style/styles.css">
     <title>Connexion</title>
 </head>
-
+  
 <body>
 <header>
     <?php include '../Modules/header.php'; ?>

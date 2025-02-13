@@ -6,9 +6,10 @@
     <link rel="stylesheet" href="/QRcode/style/styles.css">
     <title>Connexion</title>
 </head>
-  
-<body>
-<header>
+
+
+  <body>
+  <header>
     <?php include '../Modules/header.php'; ?>
 </header>
 <div class="client-area">

@@ -34,7 +34,7 @@
   </div>
 </div>
 
-    <?php include '../Modules/footer.php'; ?>
+    <?php include '../odules/footer.php'; ?>
 
 </body>
 </html>

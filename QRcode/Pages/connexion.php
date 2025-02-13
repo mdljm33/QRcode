@@ -34,7 +34,6 @@
   </div>
 </div>
 
-    <?php include '../odules/footer.php'; ?>
 
 </body>
 </html>

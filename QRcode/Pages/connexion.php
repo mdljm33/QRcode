@@ -6,11 +6,11 @@
     <link rel="stylesheet" href="/QRcode/style/styles.css">
     <title>Connexion</title>
 </head>
+
+<body>
 <header>
     <?php include '../Modules/header.php'; ?>
 </header>
-
-<body>
 <div class="client-area">
     <div class="container">
       <form method="post" action="/Serre Connecte/modules/register_area.php" class="register-form">

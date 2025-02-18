@@ -43,7 +43,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </header>
 <div class="client-area">
     <div class="container">
-      <form method="post" action="/Serre Connecte/modules/register_area.php" class="register-form">
+      <form method="post" action="/Qrcode/index.php" class="register-form">
           <h2>Connexion</h2>
 
           <div class="form-group">

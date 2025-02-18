@@ -37,6 +37,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 
   <body>
+    <?php echo "<script>console.log('{$data}' );</script>";?>
   <header>
     <?php include '../Modules/header.php'; ?>
 </header>
